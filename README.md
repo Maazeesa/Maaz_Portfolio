@@ -1,10 +1,10 @@
 # Data Analyst
-# Microsoft Forms + Azure SQL + Power BI Integration
 
 This project demonstrates a complete data pipeline using **Microsoft Forms**, **Azure SQL Database**, and **Power BI** for real-time data visualization.
 
 ## 🔧 Tech Stack
 - **Microsoft Forms** – Used to collect structured data
+- **Power Automation**
 - **Azure SQL Database** – Stores form responses in normalized tables
 - **Power BI** – Connects to Azure SQL for live dashboard and reporting
 
