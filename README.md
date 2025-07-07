@@ -63,5 +63,5 @@ The database contains 9 main tables:
 
 **Maaz** – Data Automation & Integration Enthusiast  
 Contact: [mo.maaz@outlook.com]
-LinkedIn: [linkedin.com/in/mo-maaz-975b33255]
+LinkedIn: [(https://www.linkedin.com/in/mo-maaz-975b33255)]
 
