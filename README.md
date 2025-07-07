@@ -4,7 +4,7 @@ This project demonstrates a complete data pipeline using **Microsoft Forms**, **
 
 ## 🔧 Tech Stack
 - **Microsoft Forms** – Used to collect structured data
-- **Power Automation**
+- **Power Automation** - Used to connect From with SQL
 - **Azure SQL Database** – Stores form responses in normalized tables
 - **Power BI** – Connects to Azure SQL for live dashboard and reporting
 
@@ -62,8 +62,8 @@ The database contains 9 main tables:
 ## 📌 Author
 
 **Maaz** – Data Automation & Integration Enthusiast  
-Contact: mohdmaazeesa5360@gmail.com
-LinkedIn:linkedin.com/in/mo-maaz-975b33255
+Contact: mo.maaz@outlook.com
+LinkedIn: linkedin.com/in/mo-maaz-975b33255
 
 # msform-azure-powerbi
 Microsoft Forms integrated with Azure SQL and Power BI for real-time data visualization
