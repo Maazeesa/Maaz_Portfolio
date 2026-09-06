@@ -71,86 +71,92 @@ window.PORTFOLIO = {
 
   projects: [
     {
-      number: "01",
-      category: "BUSINESS INTELLIGENCE · EXECUTIVE REPORTING",
-      title: "Executive Business Intelligence Dashboards",
+  number: "01",
+  category: "BUSINESS INTELLIGENCE · EXECUTIVE REPORTING",
+  title: "Executive Business Intelligence Dashboards",
 
-      summary: "Management dashboards and reporting solutions designed to convert operational data into clear KPIs, trends, exceptions and decision-ready insights.",
+  summary: "Management dashboards and reporting solutions designed to convert operational data into clear KPIs, trends, exceptions and decision-ready insights.",
 
-      challenge: "Operational information was spread across multiple files and reporting formats, making it difficult for management to review performance consistently and quickly.",
+  challenge: "Operational information was spread across multiple files and reporting formats, making it difficult for management to review performance consistently and quickly.",
 
-      solution: "Built structured Power BI and Excel reporting models using Power Query, KPI logic and automated data preparation to improve visibility and management reporting.",
+  solution: "Built structured Power BI and Excel reporting models using Power Query, KPI logic and automated data preparation to improve visibility and management reporting.",
 
-      impact: [
-        "Improved executive visibility of performance",
-        "Reduced manual reporting effort",
-        "Created clearer KPI and exception tracking"
-      ],
+  impact: [
+    "Improved executive visibility of performance",
+    "Reduced manual reporting effort",
+    "Created clearer KPI and exception tracking"
+  ],
 
-      tools: [
-        "Power BI",
-        "SQL",
-        "Power Query",
-        "Advanced Excel",
-        "DAX"
-      ],
+  tools: [
+    "Power BI",
+    "SQL",
+    "Power Query",
+    "Advanced Excel",
+    "DAX"
+  ],
 
-      visual: "business"
-    },
+  image: "assets/attendance-dashboard.png",
+  visual: "business"
+},
 
-    {
-      number: "02",
-      category: "MINING · PRODUCTION & PERFORMANCE ANALYTICS",
-      title: "Mine Production & Gold Forecast",
+{
+  number: "02",
+  category: "MINING · PRODUCTION & PERFORMANCE ANALYTICS",
+  title: "Mine Production & Gold Forecast",
 
-      summary: "An integrated production and performance view connecting mine movement, ore quality, processing constraints and forecast gold output.",
+  summary: "An integrated production and performance view connecting mine movement, ore quality, processing constraints and forecast gold output.",
 
-      challenge: "Mine plans, actual movement, crusher feed, HL/CIL allocation, grade and recovery needed to be reviewed together rather than in separate spreadsheets.",
+  challenge: "Mine plans, actual movement, crusher feed, HL/CIL allocation, grade and recovery needed to be reviewed together rather than in separate spreadsheets.",
 
-      solution: "Designed reporting for ore and waste movement, strip ratio, grade, processing feed, recovery, stockpiles and plan-versus-actual performance.",
+  solution: "Designed reporting for ore and waste movement, strip ratio, grade, processing feed, recovery, stockpiles and plan-versus-actual performance.",
 
-      impact: [
-        "Linked mining and processing performance",
-        "Improved monthly management review",
-        "Supported production forecasting"
-      ],
+  impact: [
+    "Linked mining and processing performance",
+    "Improved monthly management review",
+    "Supported production forecasting"
+  ],
 
-      tools: [
-        "Power BI",
-        "Excel Modelling",
-        "Forecasting",
-        "Mining KPIs"
-      ],
+  tools: [
+    "Power BI",
+    "Excel Modelling",
+    "Forecasting",
+    "Mining KPIs"
+  ],
+
+  image: "assets/mining-dashboard.png",
+  visual: "mining"
+},
 
       visual: "mining"
     },
 
-    {
-      number: "03",
-      category: "MINE PLANNING · OPERATIONS ANALYTICS",
-      title: "Multi-Pit Monthly Planning Model",
+{
+  number: "03",
+  category: "MINE PLANNING · OPERATIONS ANALYTICS",
+  title: "Multi-Pit Monthly Planning Model",
 
-      summary: "A practical planning model for sequencing material movement across multiple pits, benches and processing destinations.",
+  summary: "A practical planning model for sequencing material movement across multiple pits, benches and processing destinations.",
 
-      challenge: "Monthly targets had to respect bench availability, depletion, carry-forward material, fleet capacity, stockpiles and crusher or plant constraints.",
+  challenge: "Monthly targets had to respect bench availability, depletion, carry-forward material, fleet capacity, stockpiles and crusher or plant constraints.",
 
-      solution: "Structured pit and bench sequencing with ore/waste schedules, depletion logic, blending, ROM and stockpile movements, and HL/CIL feed allocation.",
+  solution: "Structured pit and bench sequencing with ore/waste schedules, depletion logic, blending, ROM and stockpile movements, and HL/CIL feed allocation.",
 
-      impact: [
-        "Converted targets into executable schedules",
-        "Made capacity constraints visible",
-        "Supported fleet and manpower planning"
-      ],
+  impact: [
+    "Converted targets into executable schedules",
+    "Made capacity constraints visible",
+    "Supported fleet and manpower planning"
+  ],
 
-      tools: [
-        "Advanced Excel",
-        "Scenario Analysis",
-        "Production Scheduling",
-        "Capacity Planning"
-      ],
+  tools: [
+    "Advanced Excel",
+    "Scenario Analysis",
+    "Production Scheduling",
+    "Capacity Planning"
+  ],
 
-      visual: "planning"
-    },
+  image: "assets/drilling-dashboard.png",
+  visual: "planning"
+},
 
     {
       number: "04",
@@ -179,33 +185,34 @@ window.PORTFOLIO = {
       visual: "finance"
     },
 
-    {
-      number: "05",
-      category: "HR OPERATIONS · WORKFORCE ANALYTICS",
-      title: "Attendance & Payroll Control Dashboard",
+{
+  number: "05",
+  category: "HR OPERATIONS · WORKFORCE ANALYTICS",
+  title: "Attendance & Payroll Control Dashboard",
 
-      summary: "A management reporting solution consolidating attendance information from JISR, BioTime and site files across more than 30 operational locations.",
+  summary: "A management reporting solution consolidating attendance information from JISR, BioTime and site files across more than 30 operational locations.",
 
-      challenge: "Attendance records arrived through separate systems and files, creating duplicate employees, unresolved punch corrections, inconsistent site ownership and payroll exceptions.",
+  challenge: "Attendance records arrived through separate systems and files, creating duplicate employees, unresolved punch corrections, inconsistent site ownership and payroll exceptions.",
 
-      solution: "Built a Power Query consolidation process and Power BI reporting model covering attendance status, incomplete punches, leave, sick days, excuses, working days and site-level performance.",
+  solution: "Built a Power Query consolidation process and Power BI reporting model covering attendance status, incomplete punches, leave, sick days, excuses, working days and site-level performance.",
 
-      impact: [
-        "One management view across 30+ sites",
-        "Faster identification of payroll exceptions",
-        "Clear visibility of pending HR approvals"
-      ],
+  impact: [
+    "One management view across 30+ sites",
+    "Faster identification of payroll exceptions",
+    "Clear visibility of pending HR approvals"
+  ],
 
-      tools: [
-        "Power BI",
-        "Power Query",
-        "Advanced Excel",
-        "JISR",
-        "BioTime"
-      ],
+  tools: [
+    "Power BI",
+    "Power Query",
+    "Advanced Excel",
+    "JISR",
+    "BioTime"
+  ],
 
-      visual: "attendance"
-    },
+  image: "assets/attendance-dashboard.png",
+  visual: "attendance"
+},
 
     {
       number: "06",
