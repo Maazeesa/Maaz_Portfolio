@@ -127,10 +127,7 @@ window.PORTFOLIO = {
   visual: "mining"
 },
 
-      visual: "mining"
-    },
-
-{
+      {
   number: "03",
   category: "MINE PLANNING · OPERATIONS ANALYTICS",
   title: "Multi-Pit Monthly Planning Model",
@@ -276,7 +273,7 @@ window.PORTFOLIO = {
     { name: "Arabic", level: "Basic" }
   ],
 
-  education: "Bachelor of Commerce - Aligarh Muslim University, completed 2026",
+  education: "Bachelor of Commerce - Aligarh Muslim University",
 
   experience: [
     {
@@ -330,7 +327,7 @@ window.PORTFOLIO = {
     {
       quote: "He consistently translates highly technical geological, drilling, mining, and metallurgical data into concise, decision-ready insights for executive leadership, while preserving technical accuracy and operational context.",
 
-      name: "Nico de Lange",
+      name: "Nico De Lange",
       title: "Chief Financial Officer · Saudi Gold Refinery",
       context: "Academic and technical recommendation",
       file: "assets/Mo-Maaz-Recommendation-CFO-Public.pdf"
