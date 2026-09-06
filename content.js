@@ -129,30 +129,31 @@ window.PORTFOLIO = {
 
       {
   number: "03",
-  category: "MINE PLANNING · OPERATIONS ANALYTICS",
-  title: "Multi-Pit Monthly Planning Model",
+  category: "DRILLING · PERFORMANCE ANALYTICS",
+  title: "Drilling Performance Dashboard",
 
-  summary: "A practical planning model for sequencing material movement across multiple pits, benches and processing destinations.",
+  summary: "A Power BI performance dashboard for monitoring drilling activity, plan-versus-actual meters, rig productivity, utilization and downtime.",
 
-  challenge: "Monthly targets had to respect bench availability, depletion, carry-forward material, fleet capacity, stockpiles and crusher or plant constraints.",
+  challenge: "Drilling performance needed to be reviewed across multiple rigs, with clear visibility of planned versus actual meters, utilization, downtime and operational efficiency.",
 
-  solution: "Structured pit and bench sequencing with ore/waste schedules, depletion logic, blending, ROM and stockpile movements, and HL/CIL feed allocation.",
+  solution: "Built a structured Power BI dashboard combining rig-level drilling meters, achievement %, drilling hours, hole depth, utilization and downtime analysis into one management view.",
 
   impact: [
-    "Converted targets into executable schedules",
-    "Made capacity constraints visible",
-    "Supported fleet and manpower planning"
+    "Improved visibility of rig performance",
+    "Highlighted plan-versus-actual drilling gaps",
+    "Supported downtime and utilization analysis"
   ],
 
   tools: [
+    "Power BI",
     "Advanced Excel",
-    "Scenario Analysis",
-    "Production Scheduling",
-    "Capacity Planning"
+    "Power Query",
+    "Performance Analysis",
+    "Drilling KPIs"
   ],
 
   image: "assets/drilling-dashboard.png",
-  visual: "planning"
+  visual: "mining"
 },
 
     {
