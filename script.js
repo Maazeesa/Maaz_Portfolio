@@ -711,7 +711,17 @@
 
                 <div class="visual-shell">
 
-                  ${dashboard(project.visual)}
+                    ${
+    project.image
+      ? `
+        <img
+          class="project-dashboard-image"
+          src="${$(project.image)}"
+          alt="${$(project.title)} dashboard preview"
+        >
+      `
+      : dashboard(project.visual)
+  }
 
                 </div>
 
