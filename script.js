@@ -556,7 +556,7 @@
           </p>
 
           <h2>
-            Analysis built around how the business and operation actually work.
+            Budgeting and performance analysis built for better business decisions.
           </h2>
 
         </div>
@@ -690,7 +690,7 @@
           </p>
 
           <h2>
-            Analytics and reporting built for real business problems.
+            Reporting and analysis built around business performance.
           </h2>
 
           <span>
@@ -1012,7 +1012,7 @@
           </p>
 
           <h2>
-            Career shaped by analytics, operations and improvement.
+            Experience across business analysis, reporting, operations and budgeting.
           </h2>
 
         </div>
@@ -1101,7 +1101,7 @@
           </p>
 
           <h2>
-            Have a role or project where data needs to become clearer?
+            Have a finance, budgeting or performance challenge where data needs to become clearer?
           </h2>
 
           <p>
