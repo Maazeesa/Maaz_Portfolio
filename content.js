@@ -71,174 +71,174 @@ window.PORTFOLIO = {
 
   projects: [
     {
-  number: "01",
-  category: "BUSINESS INTELLIGENCE · EXECUTIVE REPORTING",
-  title: "Executive Business Intelligence Dashboards",
+      number: "01",
+      category: "BUSINESS PERFORMANCE · EXECUTIVE REPORTING",
+      title: "Executive Performance & Management Reporting",
+    
+      summary: "Executive dashboards and management reporting solutions that turn operational information into clear KPIs, trends, exceptions and decision-ready performance insights.",
+    
+      challenge: "Operational information was spread across multiple files and reporting formats, making it difficult for management to review performance consistently and quickly.",
+    
+      solution: "Built structured Power BI and Excel reporting models using Power Query, KPI logic and automated data preparation to improve visibility and management reporting.",
+    
+      impact: [
+        "Improved executive visibility of performance",
+        "Reduced manual reporting effort",
+        "Created clearer KPI and exception tracking"
+      ],
+    
+      tools: [
+        "Power BI",
+        "SQL",
+        "Power Query",
+        "Advanced Excel",
+        "DAX"
+      ],
+    
+      image: "assets/attendance-dashboard.png",
+      visual: "business"
+    },
 
-  summary: "Management dashboards and reporting solutions designed to convert operational data into clear KPIs, trends, exceptions and decision-ready insights.",
+    {
+      number: "02",
+      category: "BUDGETING · DRILLING PERFORMANCE",
+      title: "Drilling Budget & Performance Analysis",
+    
+      summary: "A performance and budgeting analysis view for drilling activity, connecting planned and actual meters, rig productivity, utilization, downtime and related cost information.",
+    
+      challenge: "Drilling performance needed to be reviewed across multiple rigs, with clear visibility of planned versus actual meters, utilization, downtime and operational efficiency.",
+    
+      solution: "Built a structured Power BI dashboard combining rig-level drilling meters, achievement %, drilling hours, hole depth, utilization and downtime analysis into one management view.",
+    
+      impact: [
+        "Improved visibility of rig performance",
+        "Highlighted plan-versus-actual drilling gaps",
+        "Supported downtime and utilization analysis"
+      ],
+    
+      tools: [
+        "Power BI",
+        "Advanced Excel",
+        "Power Query",
+        "Performance Analysis",
+        "Drilling KPIs"
+      ],
+    
+      image: "assets/drilling-dashboard.png",
+      visual: "mining"
+    },
 
-  challenge: "Operational information was spread across multiple files and reporting formats, making it difficult for management to review performance consistently and quickly.",
-
-  solution: "Built structured Power BI and Excel reporting models using Power Query, KPI logic and automated data preparation to improve visibility and management reporting.",
-
-  impact: [
-    "Improved executive visibility of performance",
-    "Reduced manual reporting effort",
-    "Created clearer KPI and exception tracking"
-  ],
-
-  tools: [
-    "Power BI",
-    "SQL",
-    "Power Query",
-    "Advanced Excel",
-    "DAX"
-  ],
-
-  image: "assets/attendance-dashboard.png",
-  visual: "business"
-},
-
-{
-  number: "02",
-  category: "MINING · PRODUCTION & PERFORMANCE ANALYTICS",
-  title: "Mine Production & Gold Forecast",
-
-  summary: "An integrated production and performance view connecting mine movement, ore quality, processing constraints and forecast gold output.",
-
-  challenge: "Mine plans, actual movement, crusher feed, HL/CIL allocation, grade and recovery needed to be reviewed together rather than in separate spreadsheets.",
-
-  solution: "Designed reporting for ore and waste movement, strip ratio, grade, processing feed, recovery, stockpiles and plan-versus-actual performance.",
-
-  impact: [
-    "Linked mining and processing performance",
-    "Improved monthly management review",
-    "Supported production forecasting"
-  ],
-
-  tools: [
-    "Power BI",
-    "Excel Modelling",
-    "Forecasting",
-    "Mining KPIs"
-  ],
-
-  image: "assets/mining-dashboard.png",
-  visual: "mining"
-},
-
-      {
-  number: "03",
-  category: "DRILLING · PERFORMANCE ANALYTICS",
-  title: "Drilling Performance Dashboard",
-
-  summary: "A Power BI performance dashboard for monitoring drilling activity, plan-versus-actual meters, rig productivity, utilization and downtime.",
-
-  challenge: "Drilling performance needed to be reviewed across multiple rigs, with clear visibility of planned versus actual meters, utilization, downtime and operational efficiency.",
-
-  solution: "Built a structured Power BI dashboard combining rig-level drilling meters, achievement %, drilling hours, hole depth, utilization and downtime analysis into one management view.",
-
-  impact: [
-    "Improved visibility of rig performance",
-    "Highlighted plan-versus-actual drilling gaps",
-    "Supported downtime and utilization analysis"
-  ],
-
-  tools: [
-    "Power BI",
-    "Advanced Excel",
-    "Power Query",
-    "Performance Analysis",
-    "Drilling KPIs"
-  ],
-
-  image: "assets/drilling-dashboard.png",
-  visual: "mining"
-},
+    {
+          number: "03",
+          category: "FINANCE · FEASIBILITY & BUSINESS ANALYSIS",
+          title: "Feasibility & Financial Modelling",
+    
+          summary: "Financial and operational modelling support for production assumptions, cost inputs, scenario review, NPV, IRR and sensitivity analysis.",
+    
+          challenge: "Technical production assumptions, costs, grades, recovery and financial outputs needed to be brought together for structured decision support.",
+    
+          solution: "Prepared pit-wise production summaries, cost and revenue inputs, grade and recovery assumptions, and analytical support for NPV, IRR and sensitivity review.",
+    
+          impact: [
+            "Improved structure of feasibility inputs",
+            "Connected operational assumptions with financial outcomes",
+            "Supported management scenario review"
+          ],
+    
+          tools: [
+            "Advanced Excel",
+            "Financial Analysis",
+            "NPV / IRR",
+            "Sensitivity Analysis"
+          ],
+    
+          visual: "finance"
+        },
 
     {
       number: "04",
-      category: "FEASIBILITY · BUSINESS & FINANCIAL ANALYSIS",
-      title: "Feasibility & Business Planning Support",
-
-      summary: "Structured analytical support for production assumptions, cost inputs and management review of mining feasibility and business-planning scenarios.",
-
-      challenge: "Technical production assumptions, costs, grades, recovery and financial outputs needed to be brought together for structured decision support.",
-
-      solution: "Prepared pit-wise production summaries, cost and revenue inputs, grade and recovery assumptions, and analytical support for NPV, IRR and sensitivity review.",
-
+      category: "OPERATIONS · PRODUCTION PERFORMANCE",
+      title: "Production Performance & Forecasting",
+    
+      summary: "An integrated production and performance view connecting mine movement, ore quality, processing constraints and forecast gold output.",
+    
+      challenge: "Mine plans, actual movement, crusher feed, HL/CIL allocation, grade and recovery needed to be reviewed together rather than in separate spreadsheets.",
+    
+      solution: "Designed reporting for ore and waste movement, strip ratio, grade, processing feed, recovery, stockpiles and plan-versus-actual performance.",
+    
       impact: [
-        "Improved structure of feasibility inputs",
-        "Connected operational assumptions with financial outcomes",
-        "Supported management scenario review"
+        "Linked mining and processing performance",
+        "Improved monthly management review",
+        "Supported production forecasting"
       ],
-
+    
       tools: [
-        "Advanced Excel",
-        "Financial Analysis",
-        "NPV / IRR",
-        "Sensitivity Analysis"
+        "Power BI",
+        "Excel Modelling",
+        "Forecasting",
+        "Mining KPIs"
       ],
-
-      visual: "finance"
+    
+      image: "assets/mining-dashboard.png",
+      visual: "mining"
     },
 
-{
-  number: "05",
-  category: "HR OPERATIONS · WORKFORCE ANALYTICS",
-  title: "Attendance & Payroll Control Dashboard",
-
-  summary: "A management reporting solution consolidating attendance information from JISR, BioTime and site files across more than 30 operational locations.",
-
-  challenge: "Attendance records arrived through separate systems and files, creating duplicate employees, unresolved punch corrections, inconsistent site ownership and payroll exceptions.",
-
-  solution: "Built a Power Query consolidation process and Power BI reporting model covering attendance status, incomplete punches, leave, sick days, excuses, working days and site-level performance.",
-
-  impact: [
-    "One management view across 30+ sites",
-    "Faster identification of payroll exceptions",
-    "Clear visibility of pending HR approvals"
-  ],
-
-  tools: [
-    "Power BI",
-    "Power Query",
-    "Advanced Excel",
-    "JISR",
-    "BioTime"
-  ],
-
-  image: "assets/attendance-dashboard.png",
-  visual: "attendance"
-},
+    {
+      number: "05",
+      category: "WORKFORCE · COST & PERFORMANCE REPORTING",
+      title: "Workforce & Payroll-Cost Reporting",
+    
+      summary: "A management reporting solution consolidating attendance and workforce information to improve visibility of payroll-related exceptions, working days and site-level performance.",
+    
+      challenge: "Attendance records arrived through separate systems and files, creating duplicate employees, unresolved punch corrections, inconsistent site ownership and payroll exceptions.",
+    
+      solution: "Built a Power Query consolidation process and Power BI reporting model covering attendance status, incomplete punches, leave, sick days, excuses, working days and site-level performance.",
+    
+      impact: [
+        "One management view across 30+ sites",
+        "Faster identification of payroll exceptions",
+        "Clear visibility of pending HR approvals"
+      ],
+    
+      tools: [
+        "Power BI",
+        "Power Query",
+        "Advanced Excel",
+        "JISR",
+        "BioTime"
+      ],
+    
+      image: "assets/attendance-dashboard.png",
+      visual: "attendance"
+    },
 
     {
-      number: "06",
-      category: "RECRUITMENT · PROCESS AUTOMATION",
-      title: "Recruitment & New-Joiner Workflow",
-
-      summary: "A structured recruiter-to-HR Operations process for hiring visibility, employee registration and role-based onboarding requests.",
-
-      challenge: "Recruitment progress, new-hire information, hiring cost and onboarding requirements were not maintained in one controlled workflow.",
-
-      solution: "Designed a structured recruiter input, HR Operations master register and automated routing for IT assets, email accounts and HSE or site-safety items.",
-
-      impact: [
-        "Plan-versus-actual hiring visibility",
-        "Clear recruiter-to-HR handoff",
-        "Automated IT and HSE notifications"
-      ],
-
-      tools: [
-        "Microsoft Forms",
-        "SharePoint",
-        "Power Automate",
-        "Power BI"
-      ],
-
-      visual: "recruitment"
-    }
-  ],
+          number: "06",
+          category: "REPORTING AUTOMATION · HR OPERATIONS",
+          title: "Reporting Automation & New-Joiner Workflow",
+    
+          summary: "A structured reporting and workflow solution connecting recruiter inputs, HR Operations, employee registration and role-based onboarding requests.",
+    
+          challenge: "Recruitment progress, new-hire information, hiring cost and onboarding requirements were not maintained in one controlled workflow.",
+    
+          solution: "Designed a structured recruiter input, HR Operations master register and automated routing for IT assets, email accounts and HSE or site-safety items.",
+    
+          impact: [
+            "Plan-versus-actual hiring visibility",
+            "Clear recruiter-to-HR handoff",
+            "Automated IT and HSE notifications"
+          ],
+    
+          tools: [
+            "Microsoft Forms",
+            "SharePoint",
+            "Power Automate",
+            "Power BI"
+          ],
+    
+          visual: "recruitment"
+        }
+    ],
 
   capabilities: [
     {
