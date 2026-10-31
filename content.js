@@ -13,8 +13,8 @@ window.PORTFOLIO = {
   profileImage: "assets/mo-maaz-profile.jpg",
   cvFile: "assets/Mo-Maaz-CV.pdf",
 
-  headlineLine1: "Business intelligence for",
-  headlineLine2: "better operational decisions.",
+  headlineLine1: "Business performance through",
+  headlineLine2: "clearer budgeting and decisions.",
 
   introduction: "I turn operational and business data into performance insights, budgeting analysis, planning models and automated reporting that support faster, clearer management decisions.",
 
@@ -57,7 +57,7 @@ window.PORTFOLIO = {
 
     "My reporting and analysis have supported executive and technical leadership, including the CFO Office, VP of Mining, Chief Mining Engineer, CHRO and VP HR.",
 
-    "My B.Com foundation supports the commercial and financial side of my work, including budgeting inputs, feasibility analysis, cost review, performance reporting and plan-versus-actual analysis."
+    "My B.Com foundation supports the commercial and financial side of my work, including budgeting inputs, feasibility analysis, cost review, performance reporting and plan-versus-actual analysis. My current budgeting work is focused on drilling; HR, Exploration and Mining budgeting are planned areas of responsibility."
   ],
 
   expertise: [
@@ -344,5 +344,5 @@ window.PORTFOLIO = {
     }
   ],
 
-  contactText: "I'm interested in Business Intelligence, Business Analysis, Operations Analytics, Performance Analytics, Production Analytics and mining-related analytical opportunities in Saudi Arabia and internationally."
+  contactText: "I'm interested in business performance, budgeting, business intelligence, operations analytics, production analytics and mining-related analytical opportunities in Saudi Arabia and internationally."
 };
