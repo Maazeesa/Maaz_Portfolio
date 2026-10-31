@@ -51,22 +51,22 @@ window.PORTFOLIO = {
   ],
 
   about: [
-    "I work between raw operational data and management decisions. I structure scattered information, investigate reporting gaps, build repeatable reporting processes and turn the result into clear insights that leaders can use.",
+    "I specialise in budgeting, business performance and management reporting. My work connects financial, operational and workforce information to help management understand performance, investigate variances, improve planning and make better decisions.",
 
-    "At Saudi Gold Refinery Co., my work combines business intelligence, operational performance analysis, production planning and management reporting across mining operations, with additional exposure to workforce and HR analytics.",
+    "At Saudi Gold Refinery, I currently work with the CFO's finance function on drilling-budget analysis and related cost and performance information. I also develop Power BI and advanced Excel reporting solutions, automate recurring management reporting and support financial and operational analysis.",
 
-    "My reporting and analysis have supported executive and technical leadership, including the CFO Office, VP of Mining, Chief Mining Engineer, CHRO and VP HR.",
+    "Before joining Saudi Gold Refinery, I worked in business analysis and data leadership, covering KPI modelling, sales and operational reporting, forecasting and reporting automation. I also managed material, inventory and project MIS across more than 13 construction and repair projects.",
 
-    "My B.Com foundation supports the commercial and financial side of my work, including budgeting inputs, feasibility analysis, cost review, performance reporting and plan-versus-actual analysis. My current budgeting work is focused on drilling; HR, Exploration and Mining budgeting are planned areas of responsibility."
+    "I hold a Bachelor of Commerce and am preparing to pursue the CIMA qualification to deepen my expertise in management accounting, budgeting, performance management and strategic finance. Planned development areas include broader HR, Exploration and Mining budgeting responsibilities."
   ],
 
   expertise: [
-    "Business intelligence & analytics",
-    "Operations & performance analytics",
-    "Mining & production analytics",
-    "Feasibility & financial analysis",
-    "Process automation & reporting",
-    "Workforce & HR analytics"
+    "Budgeting & variance analysis",
+    "Business performance analysis",
+    "Management reporting",
+    "Forecasting & financial modelling",
+    "Business intelligence",
+    "Reporting automation"
   ],
 
   projects: [
@@ -242,28 +242,28 @@ window.PORTFOLIO = {
 
   capabilities: [
     {
+      name: "Budgeting & Variance Analysis",
+      skills: "Budget Inputs, Plan vs Actual, Cost Analysis, Variance Review"
+    },
+    {
+      name: "Financial & Business Performance",
+      skills: "Financial Analysis, KPI Modelling, Forecasting, Performance Review"
+    },
+    {
+      name: "Management Reporting",
+      skills: "Executive Reporting, MIS, Decision Support, Dashboard Design"
+    },
+    {
+      name: "Forecasting & Financial Modelling",
+      skills: "Scenario Analysis, NPV, IRR, Sensitivity Analysis"
+    },
+    {
       name: "Business Intelligence",
-      skills: "Power BI, Dashboard Design, KPI Reporting, DAX"
+      skills: "Power BI, DAX, SQL, Power Query"
     },
     {
-      name: "Data & Modelling",
-      skills: "SQL, Power Query, Data Modelling, Data Transformation"
-    },
-    {
-      name: "Business Analysis",
-      skills: "Performance Analysis, Plan vs Actual, Process Improvement, Management Reporting"
-    },
-    {
-      name: "Operations Analytics",
-      skills: "Production Planning, Forecasting, Capacity Analysis, Operational KPIs"
-    },
-    {
-      name: "Financial Analysis",
-      skills: "Cost Analysis, Budgeting Support, NPV, IRR, Sensitivity Analysis"
-    },
-    {
-      name: "Automation & Reporting",
-      skills: "Advanced Excel, Power Automate, Microsoft Forms, SharePoint, OneDrive"
+      name: "Reporting Automation",
+      skills: "Advanced Excel, Power Automate, Microsoft Forms, SharePoint"
     }
   ],
 
@@ -282,16 +282,16 @@ window.PORTFOLIO = {
       company: "SAUDI GOLD REFINERY CO. · RIYADH",
       title: "Mine Planning & Production Support Analyst | Business Analytics",
 
-      reporting: "Executive & technical reporting: CFO Office · VP of Mining · Chief Mining Engineer · CHRO · VP HR",
+      reporting: "CFO Office · VP of Mining · Chief Mining Engineer · CHRO · VP HR",
 
       points: [
-        "Support business intelligence, operational analysis and management reporting across mining production and corporate functions.",
+        "Work with the CFO's finance function on drilling-budget analysis, cost information and business performance review.",
 
-        "Support multi-pit production scheduling, capacity review, grade and recovery analysis, processing feed planning and gold forecasting. Drilling budgeting is current work; HR, Exploration and Mining budgeting are planned areas of responsibility.",
+        "Develop Power BI and advanced Excel reporting solutions for management KPIs, budget information, plan-versus-actual performance and operational decision support.",
 
-        "Develop Power BI and Excel reporting solutions for KPIs, plan-versus-actual performance and executive decision support.",
+        "Analyse operational and workforce information to improve reporting quality, identify variances and support planning.",
 
-        "Provide current analytical support for drilling budgeting, alongside budgeting inputs, feasibility, cost review and workforce reporting as part of broader business support."
+        "Contribute to feasibility and financial analysis, including production assumptions, cost review, forecasting and sensitivity analysis. Broader HR, Exploration and Mining budgeting are planned development areas."
       ]
     },
 
@@ -301,11 +301,11 @@ window.PORTFOLIO = {
       title: "Business Analyst & Data Team Lead",
 
       points: [
-        "Led reporting and analytics activities across business operations, sales performance, KPI tracking and incentive reporting.",
+        "Led business reporting and analytics across sales performance, KPI tracking, forecasting and incentive reporting.",
 
         "Managed recurring MIS reporting for multiple clients, maintaining high data accuracy and timely delivery.",
 
-        "Built automated Excel and Power BI reporting models to improve forecasting, reporting efficiency and operational visibility."
+        "Built automated Excel and Power BI reporting models to improve management visibility and reporting efficiency."
       ]
     },
 
@@ -315,11 +315,11 @@ window.PORTFOLIO = {
       title: "MIS Analyst | Operations & Inventory Analytics",
 
       points: [
-        "Managed material, inventory and project MIS across 13+ construction and repair projects.",
+        "Managed material, inventory and project MIS across more than 13 construction and repair projects.",
 
-        "Analyzed material consumption and inventory trends to support procurement and resource planning.",
+        "Analysed material consumption and inventory trends to support cost control, procurement planning and resource decisions.",
 
-        "Supported cost control, reporting and project coordination through structured operational data."
+        "Supported project reporting and coordination through structured operational data."
       ]
     }
   ],
@@ -344,5 +344,5 @@ window.PORTFOLIO = {
     }
   ],
 
-  contactText: "I'm interested in business performance, budgeting, business intelligence, operations analytics, production analytics and mining-related analytical opportunities in Saudi Arabia and internationally."
+  contactText: "I'm interested in budgeting, business performance, financial analysis, management reporting and finance-related analytical opportunities."
 };
