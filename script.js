@@ -355,16 +355,16 @@
           About
         </a>
 
+        <a href="#recommendations">
+          References
+        </a>
+
         <a href="#projects">
           Projects
         </a>
 
         <a href="#experience">
           Experience
-        </a>
-
-        <a href="#recommendations">
-          References
         </a>
 
         <a href="#contact">
