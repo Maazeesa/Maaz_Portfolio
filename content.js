@@ -13,8 +13,8 @@ window.PORTFOLIO = {
   profileImage: "assets/mo-maaz-profile.jpg",
   cvFile: "assets/Mo-Maaz-CV.pdf",
 
-  headlineLine1: "Budgets and performance,\n          made clearer.",
-  headlineLine2: "Better decisions through better analysis.",
+  headlineLine1: "Budgets and performance,",
+  headlineLine2: "made clearer for better decisions.",
 
   introduction: "I analyse budgets, costs, operational performance and management information to make variances clearer, improve planning and support better business decisions.",
 
