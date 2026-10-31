@@ -356,7 +356,7 @@
         </a>
 
         <a href="#recommendations">
-          References
+          Recommendations
         </a>
 
         <a href="#projects">
