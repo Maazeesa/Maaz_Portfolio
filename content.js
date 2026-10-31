@@ -6,17 +6,17 @@
 
 window.PORTFOLIO = {
   name: "Mo Maaz",
-  title: "Business Performance & Budgeting Analyst",
+  title: "Budgeting & Business Performance Analyst",
   location: "Riyadh, Saudi Arabia",
   email: "maaz.eesa@yahoo.com",
   linkedin: "https://www.linkedin.com/in/momaaz/",
   profileImage: "assets/mo-maaz-profile.jpg",
   cvFile: "assets/Mo-Maaz-CV.pdf",
 
-  headlineLine1: "Business performance through",
-  headlineLine2: "clearer budgeting and decisions.",
+  headlineLine1: "Budgets and performance,\n          made clearer.",
+  headlineLine2: "Better decisions through better analysis.",
 
-  introduction: "I turn operational and business data into performance insights, budgeting analysis, planning models and automated reporting that support faster, clearer management decisions.",
+  introduction: "I analyse budgets, costs, operational performance and management information to make variances clearer, improve planning and support better business decisions.",
 
   availability: "Open to business performance, budgeting and analytics roles",
 
