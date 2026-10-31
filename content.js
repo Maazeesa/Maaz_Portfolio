@@ -6,7 +6,7 @@
 
 window.PORTFOLIO = {
   name: "Mo Maaz",
-  title: "Business Analyst – Mining & Operations",
+  title: "Business Performance & Budgeting Analyst",
   location: "Riyadh, Saudi Arabia",
   email: "maaz.eesa@yahoo.com",
   linkedin: "https://www.linkedin.com/in/momaaz/",
@@ -16,9 +16,9 @@ window.PORTFOLIO = {
   headlineLine1: "Business intelligence for",
   headlineLine2: "better operational decisions.",
 
-  introduction: "I turn operational and business data into dashboards, performance insights, planning models and automated reporting that support faster, clearer management decisions.",
+  introduction: "I turn operational and business data into performance insights, budgeting analysis, planning models and automated reporting that support faster, clearer management decisions.",
 
-  availability: "Open to business intelligence, operations & analytics roles",
+  availability: "Open to business performance, budgeting and analytics roles",
 
   stakeholders: [
     "CFO Office",
@@ -32,7 +32,7 @@ window.PORTFOLIO = {
     "Business Analysis",
     "Operations & Performance Analytics",
     "Mining & Production Analytics",
-    "Planning & Reporting"
+    "Planning, Budgeting & Reporting"
   ],
 
   metrics: [
@@ -287,11 +287,11 @@ window.PORTFOLIO = {
       points: [
         "Support business intelligence, operational analysis and management reporting across mining production and corporate functions.",
 
-        "Support multi-pit production scheduling, capacity review, grade and recovery analysis, processing feed planning and gold forecasting.",
+        "Support multi-pit production scheduling, capacity review, grade and recovery analysis, processing feed planning and gold forecasting. Drilling budgeting is current work; HR, Exploration and Mining budgeting are planned areas of responsibility.",
 
         "Develop Power BI and Excel reporting solutions for KPIs, plan-versus-actual performance and executive decision support.",
 
-        "Provide analytical inputs for budgeting, feasibility, cost review and workforce reporting as part of broader business support."
+        "Provide current analytical support for drilling budgeting, alongside budgeting inputs, feasibility, cost review and workforce reporting as part of broader business support."
       ]
     },
 
