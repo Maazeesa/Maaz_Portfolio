@@ -602,6 +602,83 @@
 
 
       <section
+        class="recommendations"
+        id="recommendations"
+      >
+
+        <div class="section-title centered">
+
+          <p>
+            02 · PROFESSIONAL RECOMMENDATIONS
+          </p>
+
+          <h2>
+            Trusted by senior business, finance and operational leadership.
+          </h2>
+
+          <span>
+            Formal recommendations recognising analytical,
+            operational and decision-support contributions.
+          </span>
+
+        </div>
+
+
+        <div class="recommendation-grid">
+
+          ${list(
+            p.recommendations,
+            rec => `
+
+              <article class="recommendation-card">
+
+                <div class="quote-mark">
+                  “
+                </div>
+
+                <blockquote>
+                  ${$(rec.quote)}
+                </blockquote>
+
+
+                <div class="recommender">
+
+                  <strong>
+                    ${$(rec.name)}
+                  </strong>
+
+                  <span>
+                    ${$(rec.title)}
+                  </span>
+
+                </div>
+
+
+                <p>
+                  ${$(rec.context)}
+                </p>
+
+
+                <a
+                  href="${$(rec.file)}"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  ▣ View privacy-safe letter ${arrow}
+                </a>
+
+              </article>
+            `
+          )}
+
+        </div>
+
+      </section>
+
+
+
+
+      <section
         class="projects"
         id="projects"
       >
@@ -609,7 +686,7 @@
         <div class="section-title centered">
 
           <p>
-            02 · SELECTED PROJECTS
+            03 · SELECTED PROJECTS
           </p>
 
           <h2>
@@ -739,7 +816,7 @@
         <div class="section-title centered light">
 
           <p>
-            03 · WORKING METHOD
+            04 · WORKING METHOD
           </p>
 
           <h2>
@@ -834,7 +911,7 @@
         <div class="section-title">
 
           <p>
-            04 · CAPABILITIES
+            05 · CAPABILITIES
           </p>
 
           <h2>
@@ -931,7 +1008,7 @@
         <div class="section-title centered">
 
           <p>
-            05 · EXPERIENCE
+            06 · EXPERIENCE
           </p>
 
           <h2>
@@ -1002,81 +1079,6 @@
                   </ul>
 
                 </div>
-
-              </article>
-            `
-          )}
-
-        </div>
-
-      </section>
-
-
-      <section
-        class="recommendations"
-        id="recommendations"
-      >
-
-        <div class="section-title centered">
-
-          <p>
-            06 · PROFESSIONAL RECOMMENDATIONS
-          </p>
-
-          <h2>
-            Trusted by senior business, finance and operational leadership.
-          </h2>
-
-          <span>
-            Formal recommendations recognising analytical,
-            operational and decision-support contributions.
-          </span>
-
-        </div>
-
-
-        <div class="recommendation-grid">
-
-          ${list(
-            p.recommendations,
-            rec => `
-
-              <article class="recommendation-card">
-
-                <div class="quote-mark">
-                  “
-                </div>
-
-                <blockquote>
-                  ${$(rec.quote)}
-                </blockquote>
-
-
-                <div class="recommender">
-
-                  <strong>
-                    ${$(rec.name)}
-                  </strong>
-
-                  <span>
-                    ${$(rec.title)}
-                  </span>
-
-                </div>
-
-
-                <p>
-                  ${$(rec.context)}
-                </p>
-
-
-                <a
-                  href="${$(rec.file)}"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  ▣ View privacy-safe letter ${arrow}
-                </a>
 
               </article>
             `
