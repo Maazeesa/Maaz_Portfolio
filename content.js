@@ -51,20 +51,20 @@ window.PORTFOLIO = {
   ],
 
   about: [
-    "I specialise in budgeting, business performance and management reporting. My work connects financial, operational and workforce information to help management understand performance, investigate variances, improve planning and make better decisions.",
+    "My work centres on departmental budgeting, business performance and management reporting. My work connects financial, operational and workforce information to help management understand performance, investigate variances, improve planning and make better decisions.",
 
-    "At Saudi Gold Refinery, I currently work with the CFO's finance function on drilling-budget analysis and related cost and performance information. I also develop Power BI and advanced Excel reporting solutions, automate recurring management reporting and support financial and operational analysis.",
+    "At Saudi Gold Refinery, I currently support the Drilling department's budget, including manpower, spare parts, administration and other operating requirements, alongside cost and performance reporting. I also develop Power BI and advanced Excel reporting solutions, automate recurring management reporting and support financial and operational analysis.",
 
     "Before joining Saudi Gold Refinery, I worked in business analysis and data leadership, covering KPI modelling, sales and operational reporting, forecasting and reporting automation. I also managed material, inventory and project MIS across more than 13 construction and repair projects.",
 
-    "I hold a Bachelor of Commerce and am preparing to pursue the CIMA qualification to deepen my expertise in management accounting, budgeting, performance management and strategic finance. Planned development areas include broader HR, Exploration and Mining budgeting responsibilities."
+    "I hold a Bachelor of Commerce and continue to build my budgeting and performance analysis skills. HR, Exploration and Mining departmental budgets are planned as the next areas of work."
   ],
 
   expertise: [
-    "Budgeting & variance analysis",
+    "Departmental budgeting & cost planning",
     "Business performance analysis",
     "Management reporting",
-    "Forecasting & financial modelling",
+    "Forecasting & scenario support",
     "Business intelligence",
     "Reporting automation"
   ],
@@ -95,16 +95,15 @@ window.PORTFOLIO = {
         "DAX"
       ],
     
-      image: "assets/attendance-dashboard.png",
       visual: "business"
     },
 
     {
       number: "02",
-      category: "BUDGETING · DRILLING PERFORMANCE",
-      title: "Drilling Budget & Performance Analysis",
+      category: "DRILLING · PERFORMANCE ANALYTICS",
+      title: "Drilling Performance Dashboard",
     
-      summary: "A performance and budgeting analysis view for drilling activity, connecting planned and actual meters, rig productivity, utilization, downtime and related cost information.",
+      summary: "A Power BI dashboard for drilling activity, connecting planned and actual meters, rig productivity, utilization and downtime.",
     
       challenge: "Drilling performance needed to be reviewed across multiple rigs, with clear visibility of planned versus actual meters, utilization, downtime and operational efficiency.",
     
@@ -130,8 +129,8 @@ window.PORTFOLIO = {
 
     {
           number: "03",
-          category: "FINANCE · FEASIBILITY & BUSINESS ANALYSIS",
-          title: "Feasibility & Financial Modelling",
+          category: "FEASIBILITY · BUSINESS PLANNING",
+          title: "Feasibility & Business Planning Support",
     
           summary: "Financial and operational modelling support for production assumptions, cost inputs, scenario review, NPV, IRR and sensitivity analysis.",
     
@@ -285,13 +284,13 @@ window.PORTFOLIO = {
       reporting: "CFO Office · VP of Mining · Chief Mining Engineer · CHRO · VP HR",
 
       points: [
-        "Work with the CFO's finance function on drilling-budget analysis, cost information and business performance review.",
+        "Support the Drilling department's budget across manpower, spare parts, administration and other operating requirements, and prepare cost information for management review.",
 
         "Develop Power BI and advanced Excel reporting solutions for management KPIs, budget information, plan-versus-actual performance and operational decision support.",
 
         "Analyse operational and workforce information to improve reporting quality, identify variances and support planning.",
 
-        "Contribute to feasibility and financial analysis, including production assumptions, cost review, forecasting and sensitivity analysis. Broader HR, Exploration and Mining budgeting are planned development areas."
+        "Contribute analytical inputs to feasibility and business planning, including production assumptions, cost review, forecasting and sensitivity analysis. HR, Exploration and Mining budgets are planned next."
       ]
     },
 
