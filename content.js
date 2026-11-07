@@ -51,7 +51,7 @@ window.PORTFOLIO = {
   ],
 
   about: [
-    "My work centres on departmental budgeting, business performance and management reporting. My work connects financial, operational and workforce information to help management understand performance, investigate variances, improve planning and make better decisions.",
+    "My work centres on departmental budgeting, business performance and management reporting. I connect financial, operational and workforce information to help management understand performance, investigate variances, improve planning and make better decisions.",
 
     "At Saudi Gold Refinery, I currently support the Drilling department's budget, including manpower, spare parts, administration and other operating requirements, alongside cost and performance reporting. I also develop Power BI and advanced Excel reporting solutions, automate recurring management reporting and support financial and operational analysis.",
 
